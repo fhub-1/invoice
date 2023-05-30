@@ -13,7 +13,6 @@ Invoice is a web application for managing and creating invoices. It provides a u
 ## Technologies Used
 
 - Front-end: React, Next.js, Tailwind CSS
-- Back-end: Node.js, Express.js
 - Database: PostgreSQL
 - Prisma: ORM for database operations
 
