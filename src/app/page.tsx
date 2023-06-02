@@ -19,7 +19,7 @@ for (let i = 1; i <= 50; i++) {
 }
 
   return (
-    <main className="mb-10 p-5">
+    <main className="p-10">
     <table className="min-w-full divide-y divide-gray-400">
       <thead>
         <tr>
